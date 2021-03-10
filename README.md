@@ -8,8 +8,8 @@ RubyTix 是一家線上活動票券平台，讓您輕鬆辦理所喜愛的活動
 專案網站：[Rubytix.space](https://rubytix.space/)
 
 ## 使用環境：
-- ruby 2.6.6
 
+- ruby 2.7.0
 
 ## Information 網站簡介
 
